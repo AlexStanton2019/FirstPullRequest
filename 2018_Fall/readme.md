@@ -63,7 +63,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [ ] Schwarz, Ted
 - [ ] Sheffield, John
 - [ ] Siegel, Naomi
-- [ ] Stanton, Alex
+- [X] Stanton, Alex
 - [ ] Sucupira, Luis Felipe
 - [ ] Swartley, Joe
 - [ ] Szymczak, Wojciech
